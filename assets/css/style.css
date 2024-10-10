@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: #161515;
+}
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.work-sans {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.me-text-primary {
+  color: #705c53;
+}
+.me-bg-primary {
+  background-color: #f6f5f2;
+}
+.me-bg-secondary {
+  background-color: #d8d2c2;
+}
+.me-bg-try {
+  background-color: #f5f7f8;
+}
+.me-btn-gold {
+  background-color: #d8a25e;
+  color: #ffffff;
+}
+.me-btn-gold:hover {
+  color: #000000;
+  background-color: #bf9159;
+}
