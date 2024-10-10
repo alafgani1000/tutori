@@ -34,3 +34,23 @@
   color: #000000;
   background-color: #bf9159;
 }
+a {
+  text-decoration: none !important;
+  padding: 0;
+}
+.side-bar-menu {
+  background-color: #f6f5f2;
+  width: 100%;
+  top: 60px;
+}
+.side-bar-menu ul > li {
+  list-style: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.side-bar-menu li > a {
+  color: #000000;
+}
+.container {
+  margin-top: 50px;
+}
