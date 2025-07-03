@@ -54,3 +54,11 @@ a {
 .container {
   margin-top: 50px;
 }
+.navbar-custom {
+  background-color: #ff6f61; /* coral */
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+  color: white;
+}
